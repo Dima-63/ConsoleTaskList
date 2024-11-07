@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManConsoleApp", "TaskManConsoleApp.csproj", "{9BF02D89-E258-4744-BBED-E3DB2ED0A316}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BF02D89-E258-4744-BBED-E3DB2ED0A316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF02D89-E258-4744-BBED-E3DB2ED0A316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF02D89-E258-4744-BBED-E3DB2ED0A316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF02D89-E258-4744-BBED-E3DB2ED0A316}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1CDFB2D-D070-42D6-9796-015223CE91F8}
+	EndGlobalSection
+EndGlobal
